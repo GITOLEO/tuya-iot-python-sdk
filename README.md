@@ -1,4 +1,4 @@
-# tuya-iot-py-sdk
+# Tuya IoT Python SDK
 
 ![PyPI](https://img.shields.io/pypi/v/tuya-iot-py-sdk)
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/tuya-iot-py-sdk)
@@ -24,7 +24,7 @@ A Python sdk for Tuya Open API, which provides basic IoT capabilities like devic
 - [HomeAssistant Tuya Plugin](https://github.com/tuya/tuya-home-assistant)
 - ...
 
-## Before use
+## Prerequisite
 
 ### Registration
 
@@ -46,7 +46,7 @@ Please check [Tuya IoT Platform Configuration Guide](https://github.com/tuya/tuy
 
 Tuya opens up a variety of APIs covering business scenarios such as device pairing, smart home management, device control, and scene automation. You can call APIs according to API integration documents to implement applications.
 
-For more information, see the [documentation](https://developer.tuya.com/en/docs/cloud/).
+For more information, see the [documentation](https://developer.tuya.com/en/docs/cloud/?_source=github).
 <!-- [Documentation > Cloud Development > API Reference](https://developer.tuya.com/docs/iot/open-api/api-reference/api-reference) -->
 
 ## Issue feedback
