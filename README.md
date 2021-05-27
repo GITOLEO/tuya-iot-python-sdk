@@ -72,9 +72,9 @@ A Python sdk for Tuya Open API, which provides basic IoT capabilities like devic
 
 ## Sample code
 
-[OpenAPI Sample](./example/api.py)
+[OpenAPI Sample](https://github.com/tuya/tuya-iot-app-sdk-python/example/api.py)
 
-[Open IoT Hub Sample](./example/mq.py)
+[Open IoT Hub Sample](https://github.com/tuya/tuya-iot-app-sdk-python/example/mq.py)
 
 ## Tuya Open API reference
 
