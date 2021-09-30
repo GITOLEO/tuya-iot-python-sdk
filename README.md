@@ -83,7 +83,7 @@ With diversified devices and industries, Tuya Cloud Development Platform opens b
 
 ### Registration
 
-Please check [Tuya IoT Platform Configuration Guide](https://developer.tuya.com/en/docs/iot/Configuration_Guide_custom?id=Kamcfx6g5uyot) to register an account on the [Tuya IoT Platform](https://iot.tuya.com?_source=github), and get the required information. You need to create a Cloud project and complete the configuration of asset, user, and application. Then, you will get the **username**, **password**, **Access ID**, and **Access Secret**.
+Please check [Tuya IoT Platform Configuration Guide](https://developer.tuya.com/en/docs/iot/Configuration_Guide_custom?id=Kamcfx6g5uyot&_source=8890c5c24cdeaf033618d10ba4f8b5b8) to register an account on the [Tuya IoT Platform](https://iot.tuya.com?_source=45ecf92a89bb26a9652ccbd2e11bac50), and get the required information. You need to create a Cloud project and complete the configuration of asset, user, and application. Then, you will get the **username**, **password**, **Access ID**, and **Access Secret**.
 
 ## Usage
 
@@ -101,7 +101,7 @@ Please check [Tuya IoT Platform Configuration Guide](https://developer.tuya.com/
 
 Tuya opens up a variety of APIs covering business scenarios such as device pairing, smart home management, device control, and scene automation. You can call APIs according to API integration documents to implement applications.
 
-For more information, see the [documentation](https://developer.tuya.com/en/docs/cloud/?_source=github).
+For more information, see the [documentation](https://developer.tuya.com/en/docs/cloud/?_source=aff9440988c05e53123e5262589a444b).
 <!-- [Documentation > Cloud Development > API Reference](https://developer.tuya.com/docs/iot/open-api/api-reference/api-reference) -->
 
 ## Issue feedback
